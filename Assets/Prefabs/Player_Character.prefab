@@ -135,8 +135,9 @@ MonoBehaviour:
   interactionState: 0
   physicalState: 1
   wellnessState: 0
+  HP: 100
   ATK_Size: {x: 1, y: 2.5}
-  iFrameTimer: 1
+  iFrameTimer: 1.5
   ATKHitBoxInstance: {fileID: 8130649418640494343}
   enemies:
     serializedVersion: 2
